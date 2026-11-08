@@ -19,7 +19,7 @@ valerio — open-source maintainer
 repositories   1
 stars          2
 followers      0
-contributions  185 (last 12 months)
+contributions  205 (last 12 months)
 ```
 
 ### `~ $ contact`

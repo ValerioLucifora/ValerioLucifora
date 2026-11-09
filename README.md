@@ -26,4 +26,3 @@ contributions  207 (last 12 months)
 
 <a href="https://github.com/valeriolucifora">GitHub</a>
 
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>

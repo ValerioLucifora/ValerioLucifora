@@ -22,7 +22,4 @@ followers      0
 contributions  207 (last 12 months)
 ```
 
-### `~ $ contact`
-
-<a href="https://github.com/valeriolucifora">GitHub</a>
 
